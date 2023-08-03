@@ -1,0 +1,30 @@
+[
+    {
+      "taskTitle": "Complete Project Backend",
+      "taskDescription": "Write a detailed proposal for the new project.You must need to complete the task within time also you have to  know about our term and policy",
+      "status": "In Progress",
+      "time": "3 days",
+      "Details":" Set up a Node.js and Express.js project. Connect to a MongoDB database using a suitable library or ORM. Define the task schema and create the necessary models for CRUD operations. Implement the required API endpoints for creating, reading, updating, and deleting tasks.Handle validation and error scenarios appropriately. Write unit tests for the backend API routes (optional but encouraged). Frontend Development. Set up a React.js project using Create React App or a similar tool.Create a form component to add new tasks, including fields for the title, description, and status.Build a task list component that displays the tasks retrieved from the backend API. Implement functionality to update the status of tasks and delete tasks.Apply basic styling to the components using CSS or a CSS framework (e.g., Bootstrap).Make API calls to the backend to fetch and update task data."
+    },
+    {
+      "taskTitle": "Prepare Presentation Slides",
+      "taskDescription": "Create presentation slides for the meeting.You must need to complete the task within time also you have to  know about our term and policy",
+      "status": "Pending",
+      "time": "4 days",
+      "Details":"The success of this task relies on effective communication skills, creativity, and the ability to simplify complex information into digestible and compelling content. A well-prepared presentation can captivate the audience, convey key messages effectively, and leave a lasting impact.Ultimately, the task of preparing presentation details contributes to effective communication, knowledge dissemination, and the achievement of the presentation's specific goals, whether it is to inform, persuade, educate, or inspire the audience." 
+    },
+    {
+      "taskTitle": "Review Code Changes",
+      "taskDescription": "Review and provide feedback on the latest code changes.You must need to complete the task within time also you have to  know about our term and policy",
+      "status": "Completed",
+      "time": "10 Days"
+      ,"Details":"During the code review process, the reviewer closely examines the logic, efficiency, and readability of the changes. They provide constructive feedback to the developers, suggesting improvements and addressing any issues found. Additionally, the reviewer verifies that the changes do not adversely affect the existing functionalities of the software.By diligently executing this task, the code review process contributes to the overall quality assurance of the software development lifecycle. It helps to catch and resolve issues early, preventing potential problems from being deployed to production. The review also promotes collaboration and knowledge sharing within the development team, fostering a culture of continuous improvement.The reviewer's role requires a keen eye for detail, a strong understanding of coding standards, and proficiency in the programming languages and tools used in the project. Effective communication skills are essential to provide clear feedback and engage in productive discussions with developers."
+    },
+       {
+      "taskTitle": "TOY Marketting frontend",
+      "taskDescription": "Coordinate with team members for the next meeting.You must need to complete the task within time also you have to  know about our term and policy",
+      "status": "Pending",
+      "time": "2 days",
+      "Details":" Set up a React.js project using Create React App or a similar tool.Create a form component to add new tasks, including fields for the title, description, and status.Build a task list component that displays the tasks retrieved from the backend API. Implement functionality to update the status of tasks and delete tasks.Apply basic styling to the components using CSS or a CSS framework (e.g., Bootstrap).Make API calls to the backend to fetch and update task data."
+    }
+  ]  
